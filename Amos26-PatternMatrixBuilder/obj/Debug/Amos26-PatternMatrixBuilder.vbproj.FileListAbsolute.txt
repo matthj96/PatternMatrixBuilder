@@ -1,0 +1,7 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-PatternMatrixBuilder.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-PatternMatrixBuilder.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26_PatternMatrixBuilder.frmVariables.resources
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-PatternMatrixBuilder.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-PatternMatrixBuilder.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-PatternMatrixBuilder.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-PatternMatrixBuilder.vbprojResolveAssemblyReference.cache

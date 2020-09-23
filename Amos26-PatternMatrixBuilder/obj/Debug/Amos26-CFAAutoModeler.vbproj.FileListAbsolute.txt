@@ -1,0 +1,6 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-CFAAutoModeler.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-CFAAutoModeler.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26_PatternMatrixBuilder.frmVariables.resources
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-CFAAutoModeler.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-CFAAutoModeler.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-PatternMatrixBuilder\Amos26-PatternMatrixBuilder\obj\Debug\Amos26-CFAAutoModeler.pdb
